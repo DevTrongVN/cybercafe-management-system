@@ -1,0 +1,65 @@
+[
+  {
+    "MaDH": "HD001",
+    "MaKH": "QT904454809",
+    "Ngay": "2025-06-15",
+    "Gio": "11:40:32",
+    "SoMay": 18,
+    "DanhSachMon": [
+      {
+        "Ma_Mon": "DA003",
+        "Ten_Mon": "Phở bò",
+        "Gia": 45000,
+        "Hinh": "pho.jpg",
+        "MaKH": "",
+        "trangthai": "Chưa xác nhận",
+        "SoLuong": 0
+      },
+      {
+        "Ma_Mon": "DA003",
+        "Ten_Mon": "Phở bò",
+        "Gia": 45000,
+        "Hinh": "pho.jpg",
+        "MaKH": "",
+        "trangthai": "Chưa xác nhận",
+        "SoLuong": 0
+      },
+      {
+        "Ma_Mon": "DA003",
+        "Ten_Mon": "Phở bò",
+        "Gia": 45000,
+        "Hinh": "pho.jpg",
+        "MaKH": "",
+        "trangthai": "Chưa xác nhận",
+        "SoLuong": 0
+      }
+    ]
+  },
+  {
+    "MaDH": "HD002",
+    "MaKH": "QT904454809",
+    "Ngay": "2025-06-15",
+    "Gio": "11:57:45",
+    "SoMay": 4,
+    "DanhSachMon": [
+      {
+        "Ma_Mon": "DA004",
+        "Ten_Mon": "Bánh mì thịt nướng",
+        "Gia": 20000,
+        "Hinh": "banhmi.jpg",
+        "MaKH": "",
+        "trangthai": "Chờ làm",
+        "SoLuong": 0
+      },
+      {
+        "Ma_Mon": "DA004",
+        "Ten_Mon": "Bánh mì thịt nướng",
+        "Gia": 20000,
+        "Hinh": "banhmi.jpg",
+        "MaKH": "",
+        "trangthai": "Chưa xác nhận",
+        "SoLuong": 0
+      }
+    ]
+  }
+]

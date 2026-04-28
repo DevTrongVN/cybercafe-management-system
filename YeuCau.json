@@ -1,0 +1,20 @@
+[
+  {
+    "MaDH": "HD001",
+    "MaKH": "HT726786430",
+    "Ngay": "2026-04-28",
+    "Gio": "21:26:17",
+    "SoMay": 27,
+    "DanhSachMon": [
+      {
+        "Ma_Mon": "DA001",
+        "Ten_Mon": "Cơm tấm sườn bì",
+        "Gia": 35000,
+        "Hinh": "comtam.jpg",
+        "MaKH": "",
+        "trangthai": "Chưa xác nhận",
+        "SoLuong": 0
+      }
+    ]
+  }
+]

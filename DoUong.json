@@ -1,0 +1,92 @@
+[
+  {
+    "Ma_Mon": "DU001",
+    "Ten_Mon": "Trà sữa trân châu",
+    "Gia": 25000,
+    "Hinh": "trasua.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 6
+  },
+  {
+    "Ma_Mon": "DU002",
+    "Ten_Mon": "Cà phê sữa đá",
+    "Gia": 18000,
+    "Hinh": "caphe.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 3
+  },
+  {
+    "Ma_Mon": "DU003",
+    "Ten_Mon": "Sinh tố bơ",
+    "Gia": 22000,
+    "Hinh": "sinh_to_bo.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 10
+  },
+  {
+    "Ma_Mon": "DU004",
+    "Ten_Mon": "Nước cam vắt",
+    "Gia": 20000,
+    "Hinh": "nuoc_cam.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 10
+  },
+  {
+    "Ma_Mon": "DU005",
+    "Ten_Mon": "Sữa đậu nành",
+    "Gia": 15000,
+    "Hinh": "sua_dau.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 10
+  },
+  {
+    "Ma_Mon": "DU006",
+    "Ten_Mon": "Sting Dâu",
+    "Gia": 15000,
+    "Hinh": "sting_dau.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 10
+  },
+  {
+    "Ma_Mon": "DU007",
+    "Ten_Mon": "Sting Vàng",
+    "Gia": 15000,
+    "Hinh": "sting_Vang.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 10
+  },
+  {
+    "Ma_Mon": "DU008",
+    "Ten_Mon": "CoCa",
+    "Gia": 15000,
+    "Hinh": "No_jpg.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 10
+  },
+  {
+    "Ma_Mon": "DU009",
+    "Ten_Mon": "Cà phê đen",
+    "Gia": 15000,
+    "Hinh": "ca_phe_den.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 10
+  },
+  {
+    "Ma_Mon": "DU010",
+    "Ten_Mon": "Nước suối",
+    "Gia": 10000,
+    "Hinh": "Nuoc_Suoi.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 10
+  }
+]

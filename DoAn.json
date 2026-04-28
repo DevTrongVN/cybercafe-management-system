@@ -1,0 +1,47 @@
+[
+  {
+    "Ma_Mon": "DA001",
+    "Ten_Mon": "Cơm tấm sườn bì",
+    "Gia": 35000,
+    "Hinh": "comtam.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 0
+  },
+  {
+    "Ma_Mon": "DA002",
+    "Ten_Mon": "Bún bò Huế",
+    "Gia": 40000,
+    "Hinh": "bunbo.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 1
+  },
+  {
+    "Ma_Mon": "DA003",
+    "Ten_Mon": "Phở bò",
+    "Gia": 45000,
+    "Hinh": "pho.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 0
+  },
+  {
+    "Ma_Mon": "DA004",
+    "Ten_Mon": "Bánh mì thịt nướng",
+    "Gia": 20000,
+    "Hinh": "banhmi.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 0
+  },
+  {
+    "Ma_Mon": "DA005",
+    "Ten_Mon": "Mì Trứng Nước",
+    "Gia": 20000,
+    "Hinh": "mitrung.jpg",
+    "MaKH": "",
+    "trangthai": "Chưa xác nhận",
+    "SoLuong": 2
+  }
+]

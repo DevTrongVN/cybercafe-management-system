@@ -1,0 +1,58 @@
+[
+  {
+    "Ten": "Nguyễn Văn A",
+    "MaNV": "NV912345678",
+    "MK": "abc123",
+    "TongThu": 12000000,
+    "SDT": "0912345678",
+    "Email": "VanA@gmail.com"
+  },
+  {
+    "Ten": "Trần Thị B",
+    "MaNV": "NV923456781",
+    "MK": "mypass456",
+    "TongThu": 9800000,
+    "SDT": "0923456781",
+    "Email": "VanB@gmail.com"
+  },
+  {
+    "Ten": "Lê Quốc Cường",
+    "MaNV": "NV934567812",
+    "MK": "cuong789",
+    "TongThu": 15000000,
+    "SDT": "0934567812",
+    "Email": "QCuong@gmail.com"
+  },
+  {
+    "Ten": "Phạm Thị Duyên",
+    "MaNV": "NV945678123",
+    "MK": "duyen@123",
+    "TongThu": 20000,
+    "SDT": "0945678123",
+    "Email": "ThiDuyen@mail.com"
+  },
+  {
+    "Ten": "Đỗ Mạnh Hùng",
+    "MaNV": "NV956781234",
+    "MK": "hung999",
+    "TongThu": 20000,
+    "SDT": "0956781234",
+    "Email": "ManhHung@gmail.com"
+  },
+  {
+    "Ten": "Nguyễn Quốc Trọng",
+    "MaNV": "NV904454809",
+    "MK": "1",
+    "TongThu": 743000.0,
+    "SDT": "0904454809",
+    "Email": "trong2ka@gmail.com"
+  },
+  {
+    "Ten": "Nguyễn Hoàng Thông",
+    "MaNV": "NV922222222",
+    "MK": "t",
+    "TongThu": 20000.0,
+    "SDT": "0922222222",
+    "Email": "t@gmail.com"
+  }
+]
